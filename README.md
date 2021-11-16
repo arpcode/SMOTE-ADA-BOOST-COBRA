@@ -1,6 +1,6 @@
-#Cobra ROSboost for imbalance class problem
+# Cobra ROSboost for imbalance class problem
 
-##Directory Structure
+## Directory Structure
 ```bash
 │   CoBra.pdf
 │   README.md
