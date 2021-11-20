@@ -8,7 +8,7 @@ majority class 500 \
 minority class 268 
 
 ### data: 
-file data.csv\
+file: data.csv\
 --------------points\
 majority class 950 \
 minority class 50 
@@ -32,12 +32,8 @@ minority class 50
 └───Scripts
         Boosting.py //implementation of AdaBoost, SMOTE and ROSBoost using SMOTE for oversampling
         CobraClassifier.py //implemenatation of COBRA
+   
 ```
 
 ## Results 
-n_samples: number of points generated while oversampling\
-k_neighbours: number of neighbours to be considered in SMOTE
-
-### pima-indian-diabetes:
-
-### Data:
+SMOTEBOOST Results.pdf contains the results obtained
