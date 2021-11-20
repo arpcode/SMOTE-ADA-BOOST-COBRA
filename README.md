@@ -36,4 +36,4 @@ minority class 50
 ```
 
 ## Results 
-SMOTEBOOST Results.pdf contains the results obtained
+SMOTEBoost results.pdf contains the results obtained
