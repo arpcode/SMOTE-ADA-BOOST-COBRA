@@ -5,13 +5,13 @@
 file: pima-indians-diabetes.csv \
 --------------points\
 majority class 500 \
-minority class 268 \
+minority class 268 
 
 ### data: 
 file data.csv\
 --------------points\
 majority class 950 \
-minority class 50 \
+minority class 50 
 
 ## Directory Structure
 
@@ -36,7 +36,7 @@ minority class 50 \
 
 ## Results 
 n_samples: number of points generated while oversampling\
-k_neighbours: number of neighbours to be considered in SMOTE\
+k_neighbours: number of neighbours to be considered in SMOTE
 
 ### pima-indian-diabetes:
 
