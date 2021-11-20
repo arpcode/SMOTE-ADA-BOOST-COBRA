@@ -1,19 +1,20 @@
-Cobra ROSboost for imbalance class problem
+# Cobra ROSboost for imbalance class problem
 
-Dataset 
-pima-indian-diabetes:
+## Dataset 
+### pima-indian-diabetes:
 file: pima-indians-diabetes.csv 
                points
 majority class 500 
 minority class 268 
 
-data: 
+### data: 
 file data.csv
                points
 majority class 950 
 minority class 50 
 
-Directory Structure
+## Directory Structure
+
 ```bash
 │   CoBra.pdf
 │   README.md
@@ -33,10 +34,10 @@ Directory Structure
         CobraClassifier.py //implemenatation of COBRA
 ```
 
-Results 
+## Results 
 n_samples: number of points generated while oversampling
 k_neighbours: number of neighbours to be considered in SMOTE
 
-pima-indian-diabetes:
+### pima-indian-diabetes:
 
-Data:
+### Data:
