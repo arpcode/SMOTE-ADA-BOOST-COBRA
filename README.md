@@ -37,4 +37,10 @@ minority class 50
 ```
 
 ## Results 
-SMOTEBoost results.pdf contains the results obtained. Results were obtained after applying ROSBoost using SMOTE on a cobra classifier made from 3 desision trees.
+SMOTEBoost results.pdf contains the results obtained. Results were obtained after applying ROSBoost using SMOTE on a cobra classifier made from 3 desision trees.\
+\
+\
+\
+\
+DISCLAIMER: This work is for learning purposes only. The work can not be used for publications or commercial products etc. without the mentor’s consent.
+
