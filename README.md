@@ -18,6 +18,7 @@ minority class 50
 ```bash
 │   CoBra.pdf
 │   README.md
+|   SMOTEBoost results.pdf
 │
 ├───Data
 │       haberman.csv
